@@ -1,23 +1,14 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) PROJECT
 =================================================
 
-<!-- LINKS -->
-<!-- Replace the link for each in brackets below -->
-<!-- PR (working into submission) -->
-[1]: http://xyz.com
-[2]: https://city-explorer-backend.herokuapp.com/
-<!-- https://obscure-bayou-17929.herokuapp.com/ -->
-<!-- front-end -->
-[3]: https://city-explorer.netlify.com/
-<!-- swagger -->
+## LINKS
+
+[1]: https://city-explorer-backend.herokuapp.com/
+[2]: https://city-explorer.netlify.com/
 
 ## City Explorer
 
 ### Author: Vanessa
-
-### Links and Resources
-* [provided back-end server]
-* [deployed front-end app (Netlify)
 
 <!-- #### Documentation -->
 <!-- * [Styleguidist]() -->
