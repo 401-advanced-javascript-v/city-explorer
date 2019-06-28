@@ -3,8 +3,8 @@
 
 ## LINKS
 
-[Provided back end](https://city-explorer-backend.herokuapp.com/)
-[Deployed front end](https://city-explorer.netlify.com/)
+* [Provided back end](https://city-explorer-backend.herokuapp.com/)
+* [Deployed front end](https://city-explorer.netlify.com/)
 
 ## City Explorer
 
