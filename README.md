@@ -3,8 +3,8 @@
 
 ## LINKS
 
-[1]: https://city-explorer-backend.herokuapp.com/
-[2]: https://city-explorer.netlify.com/
+[1](https://city-explorer-backend.herokuapp.com/)
+[2](https://city-explorer.netlify.com/)
 
 ## City Explorer
 
@@ -32,7 +32,7 @@ React class component. Manages state of application and renders imported compone
 
 
 #### Running the app
-* [See `create-react-app` docs](https://facebook.github.io/create-react-app/docs/getting-started)
+* [`create-react-app`](https://facebook.github.io/create-react-app/docs/getting-started)
 * `npm run start`
   - runs the app in development mode; open http://localhost:3000 to view it in the browser
 * `npm run build`
