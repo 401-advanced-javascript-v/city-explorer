@@ -13,7 +13,7 @@
 
 ## City Explorer
 
-### Author: Billy Bunn
+### Author: Vanessa
 
 ### Links and Resources
 * [provided back-end server]
